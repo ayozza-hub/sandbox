@@ -1,10 +1,12 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
+int main(int argc, char *argv[]) {
+    if (argc < 3) {
+        
+    }
 
-
-int main(){
-
-printf("ciao");
-
-	return 0;
+   
+    return 0;
 }
